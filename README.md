@@ -23,7 +23,7 @@
 ## 📒 Table of Contentsf
 - [📒 Table of Contents](#-table-of-contents)
 - [📍 Overview](#-overview)
-- [🕹️ Preview ](#-preview)
+- [🕹️ Preview](#-preview)
 - [⚙️ Features](#-features)
 - [📂 Project Structure](#project-structure)
 - [🧩 Modules](#modules)  
@@ -38,7 +38,7 @@ The DJDecks project is a DJ audio player application aimed at providing users wi
 
 ---
 
-## 🕹️ Preview 
+## 🕹️ Preview
 ![DJDecks](https://user-images.githubusercontent.com/75065469/174426015-2e10ea66-df57-4a42-bc0b-92532712c6dc.gif)
 
 ---
