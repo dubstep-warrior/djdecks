@@ -5,13 +5,12 @@
 <img src="https://cdn-icons-png.flaticon.com/512/5750/5750739.png" width="100" />
 <br>DJDecks
 </h1>
-<h3>◦ Unleash your creativity with DJDecks!</h3>
+<h3>◦ Unleash your music talents with DJDecks!</h3>
 <h3>◦ Developed with the software and tools listed below.</h3>
 
-<p align="center">
-<img src="https://img.shields.io/badge/SVG-FFB13B.svg?style&logo=SVG&logoColor=black" alt="SVG" />
-<img src="https://img.shields.io/badge/C-A8B9CC.svg?style&logo=C&logoColor=black" alt="C" />
-<img src="https://img.shields.io/badge/Markdown-000000.svg?style&logo=Markdown&logoColor=white" alt="Markdown" />
+<p align="center"> 
+<img src="https://img.shields.io/badge/C++-00599C?style&logo=C%2B%2B&logoColor=white" alt="C++" /> 
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=JUCE&color=222222&logo=JUCE&logoColor=8DC63F&label=" alt="Juce">
 </p>
 <img src="https://img.shields.io/github/languages/top/dubstep-warrior/DJDecks?style&color=5D6D7E" alt="GitHub top language" />
 <img src="https://img.shields.io/github/languages/code-size/dubstep-warrior/DJDecks?style&color=5D6D7E" alt="GitHub code size in bytes" />
@@ -64,7 +63,39 @@ The DJDecks project is a DJ audio player application aimed at providing users wi
 
 ## 📂 Project Structure
 
+```bash
+.
+├── Assets
+│   ├── Image backup
+│   │   └── ...17 files
+│   └── ...8 files
+├── OtoDecks.jucer
+├── README.md
+└── Source
+    ├── CustomLookAndFeel.cpp
+    ├── CustomLookAndFeel.h
+    ├── DJAudioPlayer.cpp
+    ├── DJAudioPlayer.h
+    ├── DeckGUI.cpp
+    ├── DeckGUI.h
+    ├── JogWheel.cpp
+    ├── JogWheel.h
+    ├── Library.cpp
+    ├── Library.h
+    ├── Main.cpp
+    ├── MainComponent.cpp
+    ├── MainComponent.h
+    ├── PlaylistComponent.cpp
+    ├── PlaylistComponent.h
+    ├── Track.h
+    ├── WaveformDisplay.cpp
+    ├── WaveformDisplay.h
+    ├── ZoomedWaveform.cpp
+    └── ZoomedWaveform.h
 
+3 directories, 47 files
+
+```
 
 
 ---
