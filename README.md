@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
+<img src="https://cdn-icons-png.flaticon.com/512/5750/5750739.png" width="100" />
 <br>DJDecks
 </h1>
 <h3>◦ Unleash your creativity with DJDecks!</h3>
@@ -24,7 +24,7 @@
 ## 📒 Table of Contentsf
 - [📒 Table of Contents](#-table-of-contents)
 - [📍 Overview](#-overview)
-- [🕹️ DEMO ](#-demo)
+- [🕹️ Preview ](#-preview)
 - [⚙️ Features](#-features)
 - [📂 Project Structure](#project-structure)
 - [🧩 Modules](#modules)  
@@ -39,7 +39,7 @@ The DJDecks project is a DJ audio player application aimed at providing users wi
 
 ---
 
-## 🕹️ DEMO 
+## 🕹️ Preview 
 ![DJDecks](https://user-images.githubusercontent.com/75065469/174426015-2e10ea66-df57-4a42-bc0b-92532712c6dc.gif)
 
 ---
