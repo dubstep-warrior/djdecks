@@ -20,7 +20,7 @@
 
 ---
 
-## 📒 Table of Contentsf
+## 📒 Table of Contents
 - [📒 Table of Contents](#-table-of-contents)
 - [📍 Overview](#-overview)
 - [🕹️ Preview](#-preview)
